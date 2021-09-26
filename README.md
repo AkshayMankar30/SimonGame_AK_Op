@@ -1,2 +1,3 @@
-# SimonGame_AK_Op
-https://akshaymankar30.github.io/SimonGame_AK_Op/
+# SimonGame_AK
+<h1>https://akshaymankar30.github.io/SimonGame_AK_Op/</h1>
+
